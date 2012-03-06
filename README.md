@@ -6,7 +6,9 @@ styles from [Bootswatch](http://bootswatch.com/). It uses the the latest
 Usage
 =====
 - Download and Install this bootswatch theme using the command
-    rake theme:install git="https://github.com/geevi.in/theme-bootswatch.git"
+
+    rake theme:install git="https://github.com/geevi/theme-bootswatch.git"
+
 - Checkout the gallery of styles at <http://bootswatch.com/>, 
 - Download the boostrap.min.css,
 - Replace the file with the same name in assets/themes/bootswatch/css.
